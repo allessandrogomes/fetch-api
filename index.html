@@ -101,7 +101,7 @@
 
             <div class="formulario__campo">
                 <label class="campo__etiqueta" for="cep">CEP</label>
-                <input name="cep" id="cep" class="campo__escrita" required />
+                <input name="cep" id="cep" class="campo__escrita" minlength="9" maxlength="9" required/>
                 <div id="erro"></div>
             </div>
 
@@ -174,7 +174,9 @@
     <footer class="rodapé">
         <a target="_blank" href="https://allessandrogomes.github.io/portfolio"><h2 class="rodapé__titulo">Alessandro Gomes</h2></a>
     </footer>
-    <script src="./script.js"></script>
+    <script src="./cep.js"></script>
+    <script src="./input-cep.js"></script>
+
 </body>
 
 </html>
