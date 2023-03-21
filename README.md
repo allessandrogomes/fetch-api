@@ -1,2 +1,3 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+# Fetch API
+Busca de CEP dinâmica para preenchimento automático de informações de endereço pelo API "viacep.com.br"
+# https://fetch-api-alessandrogomes.vercel.app
